@@ -1,0 +1,1 @@
+from week05.lab05 import calculate_average_age, get_active_user_emails
